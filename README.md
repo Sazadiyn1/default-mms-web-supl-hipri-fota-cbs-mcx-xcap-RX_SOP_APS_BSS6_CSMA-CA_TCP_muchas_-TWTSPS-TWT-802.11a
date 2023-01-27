@@ -1,0 +1,1 @@
+# default-mms-web-supl-hipri-fota-cbs-mcx-xcap-RX_SOP_APS_BSS6_CSMA-CA_TCP_muchas_-TWTSPS-TWT-802.11a
